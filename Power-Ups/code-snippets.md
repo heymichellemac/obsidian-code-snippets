@@ -9,3 +9,11 @@ tag:#powerup task-todo: "#powerup"
 ```query
 tag:#powerup task-done: "#powerup"
 ```
+
+### CSS to remove the query header
+```css
+/* Hide the query text */
+.internal-query-header-title, .internal-query-header-icon {
+    display: none !important;
+}
+```
