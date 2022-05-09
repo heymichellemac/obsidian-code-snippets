@@ -34,3 +34,7 @@ A collection of Obsidian code snippets that I use in my Obsidian vault. Each set
 	- For book literature notes
 - Video Lit Template
 	- For video literature notes
+
+
+## Power-Ups
+- Here's how it works: [How I Use Obsidian To Take Action On The Content I Consume](https://www.mishacreatrix.com/obsidian-actionable-content)
