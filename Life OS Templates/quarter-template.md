@@ -14,16 +14,16 @@ Year:: [[Y-{{date:YYYY}}]]
 ### Projects:
 ```dataview
 list
-from "01-life-os/04-projects"
-where theQuarter = "Q-{{date:YYYY-Q}}"
+where Quarter = "Q-{{date:YYYY-Q}}"
+AND contains(file.name, "MXP")
 sort file.name asc
 ```
 
 ### Weeks:
 ```dataview
 list
-from "01-life-os/05-weeks"
-where theQuarter = "Q-{{date:YYYY-Q}}"
+from "01-life-os/04-weeks"
+where Quarter = "Q-{{date:YYYY-Q}}"
 sort file.name desc
 ```
 ---

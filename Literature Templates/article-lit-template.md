@@ -1,12 +1,12 @@
 # <% tp.file.title %>
 
-Source URL:: [Article Link]()
-
-Source:: 
-
-Category:: #literature/article #status/inprogress 
-
-Tags:: 
+Category:: #literature/article 
+Status:: #status/inprogress 
+Project:: 
+Area::
+Resource:: 
+Notion URL:: [URL]()
+Source URL:: [URL]()
 
 ## The Article In 3 Ideas
 1. 

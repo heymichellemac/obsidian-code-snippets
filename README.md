@@ -6,7 +6,7 @@ A collection of Obsidian code snippets that I use in my Obsidian vault. Each set
 - There are 2 files:
 	- 1 was the initial code snippet but this would sometimes include the same note twice
 	- 2 is an updated version which should not include duplicate notes
-- This article will show you how it works: [My Obsidian Daily Note Template 2022](https://www.mishacreatrix.com/obsidian-daily-note-2022)
+- This article will show you how it works: [My Obsidian Daily Note Template 2022](https://www.heymichellemac.com/obsidian-daily-note-2022)
 
 ## Life OS Templates
 - Goals Template
@@ -19,13 +19,13 @@ A collection of Obsidian code snippets that I use in my Obsidian vault. Each set
 	- Heavily inspired by this set of templates by Nicole Van Der Hoeven [obsidian-okrs](https://github.com/nicolevanderhoeven/obsidian-okrs)
 - Weekly Template
 	- Very proud of this template for managing my week 🌞
-	- Here's an in depth article on how it works: [How I Do My Weekly Review In Obsidian](https://www.mishacreatrix.com/weekly-review-obsidian)
+	- Here's an in depth article on how it works: [How I Do My Weekly Review In Obsidian](https://www.heymichellemac.com/weekly-review-obsidian)
 - Year Template
 	- The template I use for my yearly reviews.
 - Daily Template
 	- The template I use every day for my daily notes
 	- Here's how it works: [My Obsidian Daily Note Template 2022
-](https://www.mishacreatrix.com/obsidian-daily-note-2022)
+](https://www.heymichellemac.com/obsidian-daily-note-2022)
 
 ## Literature Templates
 - Article Lit Template
@@ -37,4 +37,4 @@ A collection of Obsidian code snippets that I use in my Obsidian vault. Each set
 
 
 ## Power-Ups
-- Here's how it works: [How I Use Obsidian To Take Action On The Content I Consume](https://www.mishacreatrix.com/obsidian-actionable-content)
+- Here's how it works: [How I Use Obsidian To Take Action On The Content I Consume](https://www.heymichellemac.com/obsidian-actionable-content)
