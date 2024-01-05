@@ -1,31 +1,21 @@
 # obsidian-code-snippets
-A collection of Obsidian code snippets that I use in my Obsidian vault. Each set of notes is contained in its own directory and outlined below:
-
-## Random Evergreen Note
-- Displays 5 random notes that are marked as #evergreen
-- There are 2 files:
-	- 1 was the initial code snippet but this would sometimes include the same note twice
-	- 2 is an updated version which should not include duplicate notes
-- This article will show you how it works: [My Obsidian Daily Note Template 2022](https://www.heymichellemac.com/obsidian-daily-note-2022)
+A collection of Obsidian code snippets and templates that I use in my Obsidian vault. Each set is contained in its own directory and outlined below:
 
 ## Life OS Templates
+- These templates use the following plugins: Templater (Community plugin), Calendar (Community plugin), Periodic Notes (Community plugin), Daily Notes (Core plugin).
+
+- Daily Note Template
+	- The template I use every day for my daily notes
 - Goals Template
 	- This template is used when I create OKRs based on my quarterly or yearly reviews.
 	- Heavily inspired by this set of templates by Nicole Van Der Hoeven [obsidian-okrs](https://github.com/nicolevanderhoeven/obsidian-okrs)
-- Project Template
-	- I use this template for projects that I work on. This is the base template I use, then I modify as needed.
 - Quarter Template
 	- I use this template during my quarterly planning efforts.
 	- Heavily inspired by this set of templates by Nicole Van Der Hoeven [obsidian-okrs](https://github.com/nicolevanderhoeven/obsidian-okrs)
 - Weekly Template
-	- Very proud of this template for managing my week 🌞
-	- Here's an in depth article on how it works: [How I Do My Weekly Review In Obsidian](https://www.heymichellemac.com/weekly-review-obsidian)
+	- I use this template for my weekly reviews. To look back on the week and plan for the next week.
 - Year Template
 	- The template I use for my yearly reviews.
-- Daily Template
-	- The template I use every day for my daily notes
-	- Here's how it works: [My Obsidian Daily Note Template 2022
-](https://www.heymichellemac.com/obsidian-daily-note-2022)
 
 ## Literature Templates
 - Article Lit Template
@@ -35,6 +25,16 @@ A collection of Obsidian code snippets that I use in my Obsidian vault. Each set
 - Video Lit Template
 	- For video literature notes
 
+## Project Templates
+- Article Template
+	- For articles I want to write
+- Project Template
+	- For projects I want to work on
 
-## Power-Ups
-- Here's how it works: [How I Use Obsidian To Take Action On The Content I Consume](https://www.heymichellemac.com/obsidian-actionable-content)
+## Random Evergreen Note (Deprecated)
+- Deprecated - I no longer use this 
+- Displays 5 random notes that are marked as #evergreen
+- There are 2 files:
+	- 1 was the initial code snippet but this would sometimes include the same note twice
+	- 2 is an updated version which should not include duplicate notes
+- This article will show you how it works: [My Obsidian Daily Note Template 2022](https://www.heymichellemac.com/obsidian-daily-note-2022)

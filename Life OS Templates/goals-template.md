@@ -1,11 +1,9 @@
 # <% tp.file.title %>
-Status:: #status/backlog 
-
 Year:: [[Y-{{DATE:YYYY}}]]
-
 Quarter:: [[Q-{{DATE:YYYY-Q}}]]
-
 Project::
+Category:: #goal
+Status:: #status/backlog 
 
 
 ## Objective

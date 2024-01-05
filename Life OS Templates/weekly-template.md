@@ -1,23 +1,16 @@
 # W-{{DATE:YYYYMM}}-{{DATE:ww}} 
 Year:: [[Y-{{DATE:YYYY}}]]
 Quarter:: [[Q-{{DATE:YYYY-Q}}]]
+Category:: #weekly
 
-## ✅ This Week's Goals - Mon
-- [ ] 1
-- [ ] 2
-- [ ] 3
-
----
-
-## ⏰ Weekly Review  Prep - Fri
+## ⏰ Weekly review prep
 ### Prep Tasks
-- [ ] Clear desk space
-- [ ] Email Inboxes
-- [ ] Review My Calendar
-- [ ] Desktop + Downloads
-- [ ] Notes - Notion, Obsidian, Twitter Bookmarks, Daily Log
-- [ ] Todoist
-- [ ] Backup this vault in Github
+- [ ] Clear desk
+- [ ] Clear downloads
+- [ ] Check for updates
+- [ ] Email
+- [ ] Calendar
+- [ ] Consolidate daily notes from the last week
 
 ### 🔃 Last Week
 ![[W-<% tp.date.now("YYYYMM") %>-<% tp.date.now("ww"), -1 %>#💬 Reflections]]
@@ -25,7 +18,6 @@ Quarter:: [[Q-{{DATE:YYYY-Q}}]]
 ---
 
 ## 💬 Reflections 
-> Start a pomodoro timer here
 
 ### 🌹 What Went Well This Week?
 
@@ -33,25 +25,32 @@ Quarter:: [[Q-{{DATE:YYYY-Q}}]]
 
 ### 🌱 What Could Be Improved?
 
-### 🔋What Gave Me Energy This Week?
-
-### 📉 What Drained Me This Week?
-
 ---
-## 🟠 Next Week Planning
+## 🟠 Planning the week ahead
+### Current goals
 
-### OKRs
 ```dataview
-list
-from "00-life-os/03-goals" and #status/inprogress   
-sort file.name asc
+	LIST
+	FROM #goal
+	WHERE contains(Quarter, [[Q-{{DATE:YYYY}}-{{DATE:Q}}]])
+	SORT file.name DESC
 ```
 
-### Projects
+### Current projects
 ```dataview
-list
-from "01-projects/01-projects" and #status/inprogress   
-sort file.name asc
+	LIST
+	FROM #project
+	WHERE contains(Quarter, [[Q-{{DATE:YYYY}}-{{DATE:Q}}]])
+	AND !contains(Status, "#status/done")
+	SORT file.name DESC
 ```
 
----
+### This week
+
+> [!question]- 3 goals to accomplish this week
+> List 3 goals to accomplish this week (look at making progress towards goals as a priority)
+
+- [ ] 
+- [ ] 
+- [ ] 
+

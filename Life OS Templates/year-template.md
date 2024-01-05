@@ -1,28 +1,24 @@
 # {{title}}
-Theme: 
+Category:: #yearly
 
 Quarters:
 ```dataview
 list
-from "01-life-os/02-quarters"
-where contains(file.name, "{{date:YYYY}}")
-sort file.name asc
+from #quarterly
+WHERE Year = [[Y-{{DATE:YYYY}}]]
 ```
-
 Goals:
 ```dataview
 list
-from "01-life-os/03-goals"
-where theYear = "{{date:YYYY}}"
-sort file.name asc
+from #goal
+WHERE Year = [[Y-{{DATE:YYYY}}]]
 ```
 
 Projects:
 ```dataview
 list
-from "01-life-os/04-projects"
-where theYear = "{{date:YYYY}}"
-sort file.name asc
+from #project
+WHERE Year = [[Y-{{DATE:YYYY}}]]
 ```
 
 ---

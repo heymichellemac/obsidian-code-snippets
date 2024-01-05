@@ -1,20 +1,14 @@
 # <% tp.file.title %>
-
+#inbox
 Category:: #literature/book 
-Status:: #status/inprogress 
-Project:: 
-Area::
-Resource:: 
 Author::
-Notion URL:: [URL]()
-Public Notes URL:: [URL]()
+Highlights:: 
 
-## The Book In 3 Ideas
+>[!summary] Summary
+> Contents
 
-## Who Should Read This Book?
+## Main Points
 
-## How The Book Changed Me
 
-## Notes
+## Related
 
-## Initiatives To Try
